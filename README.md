@@ -2,6 +2,15 @@
 
 Compares a batch of resumes (PDF/DOCX) against a Job Description, scores each 0–100, ranks them, and explains every score.
 **Stack:** Python · FastAPI · MongoDB (optional) · PyMuPDF / python-docx · Sentence Transformers (`all-MiniLM-L6-v2`) · scikit-learn · plain HTML/JS UI.
+## Demo Video
+
+
+
+
+https://github.com/user-attachments/assets/77ee9e3d-046c-4e86-abe7-87e1cfc1bbdc
+
+
+
 
 ## Run
 
